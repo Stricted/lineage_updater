@@ -1,0 +1,7 @@
+[
+  {  "model": "s5neolte", "oem": "Samsung", "name": "Galaxy S5 NEO"},
+  {  "model": "ttab", "oem": "Alcatel", "name": "Telekom Puls"},
+  {  "model": "dreamlte", "oem": "Samsung", "name": "Galaxy S8"},
+  {  "model": "dream2lte", "oem": "Samsung", "name": "Galaxy S8+"},
+  {  "model": "greatlte", "oem": "Samsung", "name": "GALAXY NOTE 8"}
+]
