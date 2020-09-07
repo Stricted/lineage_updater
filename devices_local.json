@@ -3,5 +3,7 @@
   {  "model": "ttab", "oem": "Alcatel", "name": "Telekom Puls"},
   {  "model": "dreamlte", "oem": "Samsung", "name": "Galaxy S8"},
   {  "model": "dream2lte", "oem": "Samsung", "name": "Galaxy S8+"},
-  {  "model": "greatlte", "oem": "Samsung", "name": "GALAXY NOTE 8"}
+  {  "model": "greatlte", "oem": "Samsung", "name": "Galaxy Note 8"},
+  {  "model": "kane", "oem": "Motorola", "name": "One Vision"},
+  {  "model": "troika", "oem": "Motorola", "name": "One Action"}
 ]
